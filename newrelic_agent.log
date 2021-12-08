@@ -1,0 +1,8 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"Luke-MacBook-Pro.local","pid":3906,"time":"2021-12-03T10:37:29.083Z","msg":"Using New Relic for Node.js. Agent version: 6.14.0; Node version: v14.17.3."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Luke-MacBook-Pro.local","pid":3906,"time":"2021-12-03T10:37:29.085Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Luke-MacBook-Pro.local","pid":9013,"time":"2021-12-03T13:59:14.573Z","msg":"Using New Relic for Node.js. Agent version: 6.14.0; Node version: v14.17.3."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Luke-MacBook-Pro.local","pid":9013,"time":"2021-12-03T13:59:14.575Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Luke-MacBook-Pro.local","pid":10983,"time":"2021-12-03T15:08:36.175Z","msg":"Using New Relic for Node.js. Agent version: 6.14.0; Node version: v14.17.3."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Luke-MacBook-Pro.local","pid":10983,"time":"2021-12-03T15:08:36.177Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gbc1225.corp.lego.com","pid":12847,"time":"2021-12-03T19:09:05.477Z","msg":"Using New Relic for Node.js. Agent version: 6.14.0; Node version: v14.17.3."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gbc1225.corp.lego.com","pid":12847,"time":"2021-12-03T19:09:05.479Z","msg":"Module not enabled in configuration; not starting."}
